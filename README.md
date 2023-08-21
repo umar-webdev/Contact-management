@@ -3,8 +3,11 @@ visit:-(https://contact-management-9xqt.vercel.app/)
 
 #How to run on LocalHost
 step 1 :- git clone https://github.com/umarkali/Contact-management.git
+
 step 2 :- cd contact
+
 step 3:-  npm i
+
 final step :- npm start
 
 
