@@ -7,7 +7,7 @@ const linkClasses = 'flex items-center gap-2 font-light px-3 py-2 hover:bg-neutr
 
 const Sidebar = () => {
   return (
-    <div className="bg-neutral-900 p-3 w-60 flex h-full text-white flex-col">
+    <div className="bg-neutral-900 p-3 w-32 flex h-full text-white flex-col">
       <div className="flex items-center gap-2 px-1 py-3">
         <FcBarChart fontSize={24} />
         <span className='text-neutral-100 text-lg'>Dashboard</span>
