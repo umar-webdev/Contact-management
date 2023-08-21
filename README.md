@@ -1,3 +1,15 @@
+#Site Link
+visit:-(https://contact-management-9xqt.vercel.app/)
+
+#How to run on LocalHost
+step 1 :- git clone https://github.com/umarkali/Contact-management.git
+step 2 :- cd contact
+step 3:-  npm i
+final step :- npm start
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
